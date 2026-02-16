@@ -1,1 +1,6 @@
-Add placeholder
+sku,product_name,category,unit_cost,unit_price
+SKU001,Old Fashioned,Cocktails,4.50,18.00
+SKU002,Moet Imperial,Champagne,90.00,160.00
+SKU003,Hennessy VS,Spirits,10.00,22.00
+SKU004,Truffle Fries,Food,5.00,14.00
+SKU005,Bottle Service Fee,Service,0.00,100.00
