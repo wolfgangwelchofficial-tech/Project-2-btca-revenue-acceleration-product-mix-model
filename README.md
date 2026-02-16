@@ -65,6 +65,12 @@ Source: Synthetic dataset — data/sales_by_sku_daily.csv
 This visualization highlights revenue concentration across categories, reinforcing the importance of margin-weighted product mix optimization.
 
 Champagne represents approximately 44% of total revenue in the sample despite lower unit velocity, highlighting revenue concentration and the leverage potential of high-margin categories.
+
+## Margin-Weighted Impact Snapshot
+
+![Margin Impact](visuals/margin-weighted-impact.png)
+
+While Champagne dominates revenue, Service shows outsized profit leverage relative to volume. This reinforces the importance of margin-aware optimization.
 ---
 
 ## Decision Execution Model
