@@ -42,8 +42,9 @@ The key question:
 5. Model projected revenue impact of mix shift
 
 See:
-- `analysis/sku_velocity_calcs.md`
-- `analysis/product_mix_analysis.md`
+- [SKU Velocity Modeling](analysis/sku_velocity_calcs.md)
+- [Product Mix Optimization Logic](analysis/product_mix_analysis.md)
+- [Revenue Impact & Profit Simulation](analysis/revenue_impact_simulation.md)
 
 ---
 
