@@ -118,3 +118,16 @@ This increase is achieved without:
 - Increasing overhead
 
 This demonstrates how targeted mix optimization produces disproportionate revenue leverage.
+
+---
+
+## Multi-Location Scaling Extension
+
+This modeling framework scales across locations by:
+
+- Normalizing SKU velocity per location
+- Comparing margin-weighted contribution across sites
+- Identifying location-specific mix imbalances
+- Replicating high-performing SKU exposure strategies
+
+This enables enterprise-level product mix standardization without enforcing uniform inventory decisions.
