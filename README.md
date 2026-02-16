@@ -55,6 +55,13 @@ See:
 - **Revenue per SKU**
 - **Projected Mix Shift Uplift**
 
+## Revenue Distribution Snapshot
+
+![Revenue by SKU](visuals/revenue-by-sku.png)
+
+Source: Synthetic dataset — data/sales_by_sku_daily.csv
+
+This visualization highlights revenue concentration across categories, reinforcing the importance of margin-weighted product mix optimization.
 ---
 
 ## Decision Framework
