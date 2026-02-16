@@ -71,6 +71,7 @@ Champagne represents approximately 44% of total revenue in the sample despite lo
 ![Margin Impact](visuals/margin-weighted-impact.png)
 
 While Champagne dominates revenue, Service shows outsized profit leverage relative to volume. This reinforces the importance of margin-aware optimization.
+
 ---
 
 ## Decision Execution Model
