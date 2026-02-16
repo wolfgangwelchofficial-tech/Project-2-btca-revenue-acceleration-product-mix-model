@@ -73,3 +73,48 @@ But by:
 - Category mix optimization
 
 This approach enabled a 67% weekly revenue increase through mix pivoting and exposure optimization.
+
+---
+
+## Quantified Revenue Uplift Simulation
+
+### Baseline Revenue (4-Day Sample)
+
+Total Revenue by Category:
+
+- Cocktails: 3,456
+- Champagne: 9,440
+- Spirits: 2,772
+- Food: 1,064
+- Service: 3,800
+
+Total Revenue = 20,532
+
+---
+
+### Scenario: 15% Increase in Champagne Velocity
+
+Baseline Champagne Revenue = 9,440
+
+Projected Revenue:
+9,440 × 1.15 = 10,856
+
+Incremental Revenue Gain:
+10,856 - 9,440 = 1,416
+
+---
+
+### Revenue Impact Summary
+
+If exposure adjustments increase Champagne velocity by 15%, total revenue increases from:
+
+20,532 → 21,948
+
+Revenue Growth = +6.9%
+
+This increase is achieved without:
+- Increasing traffic
+- Increasing labor
+- Increasing overhead
+
+This demonstrates how targeted mix optimization produces disproportionate revenue leverage.
