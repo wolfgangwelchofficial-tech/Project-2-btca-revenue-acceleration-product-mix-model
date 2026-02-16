@@ -62,6 +62,8 @@ See:
 Source: Synthetic dataset — data/sales_by_sku_daily.csv
 
 This visualization highlights revenue concentration across categories, reinforcing the importance of margin-weighted product mix optimization.
+
+Champagne represents approximately 44% of total revenue in the sample despite lower unit velocity, highlighting revenue concentration and the leverage potential of high-margin categories.
 ---
 
 ## Decision Framework
