@@ -33,8 +33,6 @@ The key question:
 
 ---
 
-## Analytical Approach
-
 ## Analytical Framework
 
 This case study is structured across three analytical layers:
