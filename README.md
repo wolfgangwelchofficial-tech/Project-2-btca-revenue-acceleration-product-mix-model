@@ -35,16 +35,18 @@ The key question:
 
 ## Analytical Approach
 
-1. Calculate SKU velocity (units sold per day/week)
-2. Rank SKUs by revenue contribution
-3. Analyze category-level product mix %
-4. Identify margin-weighted opportunity segments
-5. Model projected revenue impact of mix shift
+## Analytical Framework
 
-See:
-- [SKU Velocity Modeling](analysis/sku_velocity_calcs.md)
-- [Product Mix Optimization Logic](analysis/product_mix_analysis.md)
-- [Revenue Impact & Profit Simulation](analysis/revenue_impact_simulation.md)
+This case study is structured across three analytical layers:
+
+- [SKU Velocity & Margin Modeling](analysis/sku_velocity_calcs.md)  
+  Identifies demand strength and profitability concentration.
+
+- [Product Mix Optimization Strategy](analysis/product_mix_analysis.md)  
+  Defines exposure adjustments and strategic mix pivots.
+
+- [Revenue Impact & Profit Simulation](analysis/revenue_impact_simulation.md)  
+  Quantifies projected uplift and margin leverage under multiple scenarios.
 
 ---
 
@@ -67,31 +69,24 @@ This visualization highlights revenue concentration across categories, reinforci
 Champagne represents approximately 44% of total revenue in the sample despite lower unit velocity, highlighting revenue concentration and the leverage potential of high-margin categories.
 ---
 
-## Decision Framework
+## Decision Execution Model
 
-Revenue acceleration decisions were based on:
+Operational decisions are documented in:
 
-- Promote top 20% revenue-driving SKUs
-- Reduce or reposition bottom 20%
-- Increase exposure for high-margin categories
-- Align staff incentives to high-margin velocity items
+- [Revenue Acceleration Playbook](docs/decision_playbook.md)
 
-See:
-- `docs/decision_playbook.md`
+This framework translates analytical insights into repeatable weekly execution.
 
 ---
 
-## Data Structure
+## Data Inputs
 
-Synthetic datasets include:
+Synthetic datasets used in this model:
 
-- `data/sales_by_sku_daily.csv`
-- `data/product_catalog.csv`
+- [Daily SKU Sales Dataset](data/sales_by_sku_daily.csv)  
+- [Product Catalog & Margin Data](data/product_catalog.csv)
 
-These support:
-- Daily SKU velocity calculations
-- Revenue modeling
-- Category mix simulations
+These datasets enable velocity calculations, revenue ranking, and profitability modeling.
 
 ---
 
